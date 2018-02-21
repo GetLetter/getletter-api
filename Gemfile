@@ -49,4 +49,4 @@ gem 'jwt'
 
 gem 'simple_command'
 
-gem 'paperclip'
+gem 'paperclip', '< 5.3.0'
